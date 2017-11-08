@@ -1,5 +1,5 @@
 # pdf-merger
-A Python script which takes all files in its directory and Merges them into one.
+A Python script which takes all PDF files in its directory and Merges them into one.
 
 Instructions:
 1. Install PyPDF2 library using pip.
